@@ -10,7 +10,7 @@
 
 ### Contact information:
 
-<img style="transform: translateY(30%);" src="https://img.icons8.com/color/48/000000/discord-logo.png"/>Ralkey#0516
+<img style="transform: translateY(30%);" src="https://img.icons8.com/color/48/000000/discord-logo.png"/>  Ralkey#0516
 
 ---
 
