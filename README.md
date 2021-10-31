@@ -10,7 +10,7 @@
 
 ### Contact information:
 
-<img  style="transform: translateY(30%);" src="https://img.icons8.com/color/48/000000/discord-logo.png"/><p>Ralkey#0516</p>
+<img style="transform: translateY(30%);" src="https://img.icons8.com/color/48/000000/discord-logo.png"/><p>Ralkey#0516</p>
 
 ---
 
@@ -25,4 +25,4 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=RalkeyOfficial&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RalkeyOfficial&show_icons=true&hide_border=true&theme=dark"/>
