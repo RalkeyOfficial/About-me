@@ -1,8 +1,8 @@
 ### Hello there, I'm Ralkey
 
 ## I'm a Gamer, Student and web Developer!
-- I am currently developing a planning website for my school
-- I'm currently learning everything full-stack related
+- I'm currently developing a planning website for my school
+- I'm also learning everything full-stack related
 - I love playing games and learning how they're developed
 - I really like anime and japanese culture
 
