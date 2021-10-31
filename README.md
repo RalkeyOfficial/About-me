@@ -11,7 +11,7 @@
 ### Contact information:
 
 <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
-<p>Ralkey#0516</p>
+Ralkey#0516
 
 
 ---
