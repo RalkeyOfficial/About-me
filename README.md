@@ -1,4 +1,4 @@
-### Hello there, I'm Ralkey
+### Hello there, I'm Thijn
 
 ## I'm a Gamer, Student and web Developer!
 - I'm currently developing a planning website for my school
