@@ -1,8 +1,7 @@
 ### Hello there, I'm Thijn
 
 ## I'm a Gamer, Student and web Developer!
-- I'm currently developing a webhook sender for discord
-- I'm also learning everything full-stack related
+- I'm learning everything full-stack related
 - I love playing games and learning how they're developed
 - I really like anime and japanese culture
 
