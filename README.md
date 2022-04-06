@@ -1,32 +1,40 @@
-### Hello there, I'm Thijn
+# 👤 About me
 
-## I'm a Gamer, Student and web Developer!
-- I'm learning everything full-stack related
-- I love playing games and learning how they're developed
-- I really like anime and japanese culture
+18 year old software developer from the netherlands
 
----
+## 🔗 Where to find me:
+* [Steam](https://steamcommunity.com/id/Ralkey/)
+* [Twitter](https://twitter.com/RealRalkey)
 
-### Contact information:
+## 👨‍💼 Current occupation:
+* Studying Software Development at **ROC van Flevoland**, Netherlands.
 
-<img src="https://img.icons8.com/color/22/000000/discord-logo.png"/> Ralkey#0516
+## 📲 Projects
 
+- 💻 [Discord Blue Hook](https://github.com/RalkeyOfficial/Discord-Blue-Hook)
+  - A windows app to send webhooks to Discord's webhook API.
+- 🧑 [Kevinator](https://github.com/RalkeyOfficial/kevinator-extension)
+  - A Chrome extension to change every image on every website to my friends face.
+- 🎥 [Custom Bingo Board](https://github.com/RalkeyOfficial/customizable-bingo-board)
+  - A customizable bingo board build for streaming (currently broken and not planning to fix it unless requested to)
 
----
+## 🏢 Experience
 
-### languages and tools I use:
+### 👩‍💻 Languages and frameworks:
+* Fullstack web development:
+  * HTML
+  * CSS
+  * Javascript
+  * JQuery
+  * PHP
+  * React (in progress)
+* App development:
+  * Electron
+* .NET (C#) through which I work with:
+  * Unity
 
-<div style="display:inline;">
-  <img src="https://desktop.github.com/images/desktop-icon.svg" width="48px"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img width="48px" style="transform: translateY(-30%);" src="https://www.php.net/images/logos/new-php-logo.svg"/>
-</div>
-
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RalkeyOfficial&show_icons=true&hide_border=true&theme=dark"/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RalkeyOfficial&show_icons=true&hide_border=true&theme=dark"/>
+### 🗃️ Databases:
+* Relational:
+  * MySQL
+* Non-relational:
+  * MongoDB (in progress)
