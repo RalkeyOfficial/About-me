@@ -15,8 +15,8 @@
   - A windows app to send webhooks to Discord's webhook API.
 - 🧑 [Kevinator](https://github.com/RalkeyOfficial/kevinator-extension)
   - A Chrome extension to change every image on every website to my friends face.
-- 🎥 [Custom Bingo Board](https://github.com/RalkeyOfficial/customizable-bingo-board)
-  - A customizable bingo board build for streaming (currently broken and not planning to fix it unless requested to)
+- 💾 [discord-1080p-video-unlocker](https://github.com/RalkeyOfficial/discord-1080p-video-unlocker)
+  - A BetterDiscord plugin to unlock the ability to stream in 1080p60 to non-nitro users
 
 ## 🏢 Experience
 
