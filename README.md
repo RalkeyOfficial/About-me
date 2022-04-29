@@ -27,6 +27,7 @@
   * Javascript
   * JQuery
   * PHP
+  * Typescript
   * React (in progress)
 * App development:
   * Electron
