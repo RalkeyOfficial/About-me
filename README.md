@@ -1,10 +1,9 @@
 # 👤 About me
 
-18 year old software developer from the netherlands
+19 year old software developer from the netherlands
 
 ## 🔗 Where to find me:
-* [Steam](https://steamcommunity.com/id/Ralkey/)
-* [Twitter](https://twitter.com/RealRalkey)
+* [LinkedIn](https://www.linkedin.com/in/thijn-douwma/)
 
 ## 👨‍💼 Current occupation:
 * Studying Software Development at **ROC van Flevoland**, Netherlands.
