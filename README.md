@@ -28,11 +28,9 @@
   * JQuery
   * PHP
   * Typescript
-  * React (in progress)
+  * React
 * App development:
   * Electron
-* .NET (C#) through which I work with:
-  * Unity
 
 ### 🗃️ Databases:
 * Relational:
