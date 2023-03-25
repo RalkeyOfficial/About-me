@@ -3,7 +3,7 @@
 19 year old software developer from the netherlands
 
 ## 🔗 Where to find me:
-* [LinkedIn](https://www.linkedin.com/in/thijn-douwma/)
+* nothing here yet
 
 ## 👨‍💼 Current occupation:
 * Studying Software Development at **ROC van Flevoland**, Netherlands.
